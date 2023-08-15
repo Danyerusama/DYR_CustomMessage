@@ -2,10 +2,10 @@
 # DYR_IdleVideoTitle Plugin for RPG Maker MV
 
 This plugin allows you to automatically play a video after a certain idle time in the title menu screen.
+
 ## Download File
 
-- [DYR_IdleVideoTitle]([https://www.github.com/danyerusama](https://github.com/Danyerusama/DYR_IdleVideoTitle/blob/cb301a78a1e7deaae0709370a825e8f5c8703735/DYR_IdleVideoTitle.js))
-
+[DYR_IdleVideoTitle.js](https://github.com/Danyerusama/DYR_IdleVideoTitle/blob/94ceb843b5d2f9b5f51aa7eec3788e41f5f0cdb3/LICENSE)
 
 ## Appendix
 
@@ -55,4 +55,4 @@ The Idle Video Title plugin enhances the title screen of your RPG Maker MV game 
 
 
 ## License
-This project is licensed under the MIT License - see the [@LICENSE](https://github.com/Danyerusama/DYR_IdleVideoTitle/blob/94ceb843b5d2f9b5f51aa7eec3788e41f5f0cdb3/LICENSE) file for more details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Danyerusama/DYR_IdleVideoTitle/blob/94ceb843b5d2f9b5f51aa7eec3788e41f5f0cdb3/LICENSE) file for more details.
