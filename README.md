@@ -52,7 +52,9 @@ The Idle Video Title plugin enhances the title screen of your RPG Maker MV game 
    
 ![Plugin Config](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/ce3b821e-35b9-48f8-b36b-b66c196f08d3)
 
+## Video Showcase
 
+[Demo](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/3bbe9e02-5b41-4b27-bc61-ac4dbbcf63cb)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Danyerusama/DYR_IdleVideoTitle/blob/94ceb843b5d2f9b5f51aa7eec3788e41f5f0cdb3/LICENSE) file for more details.
