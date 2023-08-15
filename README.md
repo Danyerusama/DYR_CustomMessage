@@ -39,25 +39,20 @@ The Idle Video Title plugin enhances the title screen of your RPG Maker MV game 
 
 
 ## Screenshots
-1. Project Event Congig:
-   
-![Project Event Config](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/3c26e3b3-c4ce-4c42-8217-f52c6cd2ba34)
 
-2. Plugin Config:
+1. New Video Map:
    
-![Plugin Config](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/5c373ed1-53bc-4e3a-bfd1-726cadb86eec)
+![Map_Zone](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/d5be882b-2537-436c-8d09-39ba35eed88a)
 
-3. Main Title Screenshot:
+2. Project Event Congig:
    
-![Main title](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/1821f3f9-2115-4a4e-a753-41c988feb8d6)
+![Project Event Config](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/a3123efa-6207-4eab-9bf7-7b1cdb2880dd)
 
-4. Message shown:
+3. Plugin Config:
    
-![Message Shown](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/4a7745d8-ca94-4d7a-9029-98bade726669)
+![Plugin Config](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/ce3b821e-35b9-48f8-b36b-b66c196f08d3)
 
-5. Idle Video in the main title screen:
-   
-![Idle Video](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/b6758ce4-c829-4680-8c60-5ac76e014713)
+
 
 
 ## Copyright and Terms
