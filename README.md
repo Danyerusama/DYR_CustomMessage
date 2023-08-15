@@ -3,7 +3,7 @@
 
 This plugin allows you to automatically play a video after a certain idle time in the title menu screen.
 
-## Download File
+## View Code and Download File
 
 [DYR_IdleVideoTitle.js](https://github.com/Danyerusama/DYR_IdleVideoTitle/blob/10e6f60b4b9057141604b0f50650a7fffb88719b/DYR_IdleVideoTitle.js)
 
