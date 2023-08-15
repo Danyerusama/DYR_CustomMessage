@@ -38,10 +38,6 @@ The Idle Video Title plugin enhances the title screen of your RPG Maker MV game 
 5. If the player chooses to skip the video, proceed with other event commands, including returning to the title screen.
 
 
-
-
-
-
 ## Screenshots
 
 ![Project Event Config](https://drive.google.com/file/d/1Jsj3lMwtM60T4Xy7v2QZ9FJY97oCVQ7w/view?usp=drive_link)
