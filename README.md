@@ -54,7 +54,7 @@ The Idle Video Title plugin enhances the title screen of your RPG Maker MV game 
 
 
 
-
+LICENSE
 ## License
 MIT License
 
