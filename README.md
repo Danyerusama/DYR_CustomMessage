@@ -40,11 +40,11 @@ The Idle Video Title plugin enhances the title screen of your RPG Maker MV game 
 
 ## Screenshots
 
-1. New Video Map:
+1. New Map:
    
 ![Map_Zone](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/d5be882b-2537-436c-8d09-39ba35eed88a)
 
-2. Project Event Congig:
+2. Project Event Config:
      
 ![Project Event Config](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/a3123efa-6207-4eab-9bf7-7b1cdb2880dd)
 
@@ -52,7 +52,7 @@ The Idle Video Title plugin enhances the title screen of your RPG Maker MV game 
    
 ![Plugin Config](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/ce3b821e-35b9-48f8-b36b-b66c196f08d3)
 
-## Video Showcase
+## Video DEMO
 
 [Demo](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/3bbe9e02-5b41-4b27-bc61-ac4dbbcf63cb)
 
