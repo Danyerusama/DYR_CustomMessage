@@ -5,7 +5,7 @@ This plugin allows you to automatically play a video after a certain idle time i
 
 ## Download File
 
-[DYR_IdleVideoTitle.js](https://github.com/Danyerusama/DYR_IdleVideoTitle/blob/94ceb843b5d2f9b5f51aa7eec3788e41f5f0cdb3/LICENSE)
+[DYR_IdleVideoTitle.js](https://github.com/Danyerusama/DYR_IdleVideoTitle/blob/10e6f60b4b9057141604b0f50650a7fffb88719b/DYR_IdleVideoTitle.js)
 
 ## Appendix
 
