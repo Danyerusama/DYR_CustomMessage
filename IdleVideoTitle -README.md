@@ -36,3 +36,25 @@ This plugin allows you to automatically play a video after a certain idle time i
 You can enable or disable this plugin with a script call. For example, to disable the plugin, use:
 ```javascript
 PluginManager.parameters('DYR_IdleVideoTitle')['enabled'] = false;
+```
+
+## Copyright and Terms
+Author: [Danyerusama]
+Version: [1.0.1]
+© [2023] [Danyerusama]. All rights reserved.
+Terms of Use:
+You are free to use this plugin in both free and commercial games. However, before modifying the code, please contact the author for approval.
+
+Ownership and Redistribution:
+This plugin remains the intellectual property of [Danyerusama]. Please refrain from claiming it as your own or redistributing it without explicit permission.
+
+Credit and Attribution:
+If you incorporate code from this plugin into your own projects, kindly give proper credit to the original author ([Danyerusama]).
+
+
+
+
+
+
+
+
