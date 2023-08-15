@@ -48,7 +48,7 @@ The Idle Video Title plugin enhances the title screen of your RPG Maker MV game 
 
 ![Message Shown](https://drive.google.com/file/d/1q8OOg2_nqO87kUsDoqk_K6mwTaaMtf3-/view?usp=drive_link)
 
-![Idle Video Screenshot](https://drive.google.com/file/d/1QjYRK02THgww16oSXWAldyluF5302XPC/view?usp=drive_link)
+![Idle Video](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/995e84cc-549e-49c5-96bf-a73379590b6c)
 
 
 ## Copyright and Terms
