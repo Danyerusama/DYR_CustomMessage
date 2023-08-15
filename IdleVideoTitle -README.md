@@ -9,7 +9,7 @@ This plugin allows you to automatically play a video after a certain idle time i
 
 ## Appendix
 
-Any additional information goes hereThe Idle Video Title plugin enhances the title screen of your RPG Maker MV game by allowing you to showcase an introductory video to your players. Engage players from the moment they start your game with captivating videos that set the mood and immerse them into your game's world
+The Idle Video Title plugin enhances the title screen of your RPG Maker MV game by allowing you to showcase an introductory video to your players. Engage players from the moment they start your game with captivating videos that set the mood and immerse them into your game's world
 
 ## Features
 
