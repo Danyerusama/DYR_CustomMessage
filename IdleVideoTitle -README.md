@@ -39,16 +39,16 @@ The Idle Video Title plugin enhances the title screen of your RPG Maker MV game 
 
 
 ## Screenshots
-
-![Project Event Config](https://drive.google.com/file/d/1Jsj3lMwtM60T4Xy7v2QZ9FJY97oCVQ7w/view?usp=drive_link)
-
-![Plugin Config](https://drive.google.com/file/d/136sbuQo_Siy7VoauyCOxO5v8llH96uiX/view?usp=drive_link)
-
-![Testing Main Title Idle Time](https://drive.google.com/file/d/18hJSV8XToR8n_KgPUo24aE8pu65URgJK/view?usp=drive_link)
-
-![Message Shown](https://drive.google.com/file/d/1q8OOg2_nqO87kUsDoqk_K6mwTaaMtf3-/view?usp=drive_link)
-
-![Idle Video](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/995e84cc-549e-49c5-96bf-a73379590b6c)
+1. Project Event Congig:
+![Project Event Config](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/3c26e3b3-c4ce-4c42-8217-f52c6cd2ba34)
+2. Plugin Config:
+![Plugin Config](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/5c373ed1-53bc-4e3a-bfd1-726cadb86eec)
+3. Main Title Screenshot:
+![Main title](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/1821f3f9-2115-4a4e-a753-41c988feb8d6)
+4. Message shown:
+![Message Shown](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/4a7745d8-ca94-4d7a-9029-98bade726669)
+6. Idle Video in the main title screen:
+![Idle Video](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/b6758ce4-c829-4680-8c60-5ac76e014713)
 
 
 ## Copyright and Terms
