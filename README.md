@@ -43,17 +43,18 @@ Rewarding the Player:
 
 ## Screenshots
 
-1. New Map:
+1. Event Config:
    
-![Map_Zone](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/d5be882b-2537-436c-8d09-39ba35eed88a)
 
-2. Project Event Config:
+![Event Config](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/8f142ff8-3482-453c-b295-05205ae8ced3)
+
+2. Plugin Config:
      
-![Project Event Config](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/a3123efa-6207-4eab-9bf7-7b1cdb2880dd)
+![Plugin Config3](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/90125320-6107-4a57-b000-f9baedd31254)
 
-3. Plugin Config:
+3. Treasure Popup Message:
    
-![Plugin Config](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/ce3b821e-35b9-48f8-b36b-b66c196f08d3)
+![TreasurePopUp](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/9e8724e5-c899-4ffc-ad9e-4a96aff55508)
 
 ## Video DEMO
 
