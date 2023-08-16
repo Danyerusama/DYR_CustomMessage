@@ -58,4 +58,4 @@ Rewarding the Player:
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Danyerusama/DYR_IdleVideoTitle/blob/94ceb843b5d2f9b5f51aa7eec3788e41f5f0cdb3/LICENSE) file for more details.
+This project is governed by the MIT License - please refer to the [LICENSE](https://github.com/Danyerusama/DYR_IdleVideoTitle/blob/94ceb843b5d2f9b5f51aa7eec3788e41f5f0cdb3/LICENSE) file for comprehensive details.
