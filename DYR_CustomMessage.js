@@ -59,6 +59,7 @@
  *============================================================================= 
  * 
  * == Script Command ==
+ * Use this script command to call plugin from the treasure event:
  * var pluginParams = PluginManager.parameters('DYR_CustomMessage');
  * var objectsToGive = pluginParams['Objects to Give'].split(',').map(function(data) {
  *     var [itemID, amount] = data.split(':');
