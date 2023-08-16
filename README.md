@@ -1,7 +1,7 @@
 
-# DYR_IdleVideoTitle Plugin for RPG Maker MV
+# DYR_CustomMessage Plugin for RPG Maker MV
 
-This plugin allows you to automatically play a video after a certain idle time in the title menu screen.
+The **DYR_CustomMessage** plugin empowers you to provide engaging interactions with treasure events in your RPG Maker MV game. Display customized messages and items to players when they interact with treasure objects, enriching their experience and adding depth to your game world.
 
 ## View Code and Download File
 
