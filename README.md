@@ -56,9 +56,6 @@ Rewarding the Player:
    
 ![TreasurePopUp](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/9e8724e5-c899-4ffc-ad9e-4a96aff55508)
 
-## Video DEMO
-
-[Demo](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/1777624a-7cb2-4bb9-83b7-f61e100adb0f)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Danyerusama/DYR_IdleVideoTitle/blob/94ceb843b5d2f9b5f51aa7eec3788e41f5f0cdb3/LICENSE) file for more details.
