@@ -5,37 +5,40 @@ The **DYR_CustomMessage** plugin empowers you to provide engaging interactions w
 
 ## View Code and Download File
 
-[DYR_IdleVideoTitle.js](https://github.com/Danyerusama/DYR_IdleVideoTitle/blob/10e6f60b4b9057141604b0f50650a7fffb88719b/DYR_IdleVideoTitle.js)
+[DYR_CustomMessage.js](https://github.com/Danyerusama/DYR_CustomMessage/blob/4da4eb673e64b7010de586820f2a5076c77c0528/DYR_CustomMessage.js)
 
 ## Appendix
 
-The Idle Video Title plugin enhances the title screen of your RPG Maker MV game by allowing you to showcase an introductory video to your players. Engage players from the moment they start your game with captivating videos that set the mood and immerse them into your game's world
+The DYR_CustomMessage plugin is designed to add a more interactive dimension to your treasure events in your RPG Maker MV game. With this plugin, you can customize the messages and rewards that players receive when interacting with treasure objects in your game world. This allows you to create moments of excitement and reward, enriching the player's experience and enabling you to add unique touches to your adventure.
 
 ## Features
 
-- Automatically plays a video after a specified idle time on the title menu screen.
-- Allows you to configure the map ID to transfer to and the amount of idle time before transferring.
-- Provides options to set the video resolution.
-- Script command to enable or disable the plugin.
+- Customize messages when interacting with treasure events.
+- Define which events are considered treasures.
+- Control the text size for the messages.
+- Specify the position and background for the message window.
+- Reward players with items when interacting with treasures.
 
 
 ## Installation
 
-1. Download the DYR_IdleVideoTitle.js file.
-2. Place the file in your RPG Maker MV project's js/plugins/ directory.
-3. In RPG Maker MV, open the Plugin Manager and enable the 
-``` 
-'DYR_IdleVideoTitle' Plugin
+1. Download the `DYR_CustomMessage.js` plugin file.
+2. Place the file in your RPG Maker MV project's `js/plugins/` directory.
+3. Access the Plugin Manager within RPG Maker MV and activate the `DYR_CustomMessage` plugin.
 
-```
-    
-## Usage/Examples
+   
+## Usage
+Interacting with Treasure Objects:
+- To set up treasure objects, specify their event IDs in the "Treasure Events" parameter in the plugin.
+- Define whether to use default or custom messages for interactions with treasures using the "Use Custom Message" parameter.
+- Customize the message itself in the "Custom Message" parameter, incorporating text character control if desired.
+- Adjust the text size using escape sequences within the message for visual emphasis.
+- Select the position and background for the message window using the "Message Position" and "Message Background" parameters.
+- Determine the maximum number of items that can be given as rewards through the "Max Items Given" parameter.
 
-1. Create a new map in your game with an auto-run event.
-2. Prompt the player with a choice, asking if they want to watch the video or skip it.
-3. If the player chooses to watch the video, use the "Show Video" event command to play the video.
-4. When the video finishes playing, call the Event command: ``` go to title screen``` to return to the title screen.
-5. If the player chooses to skip the video, proceed with other event commands, including returning to the title screen.
+Rewarding the Player:
+- Specify the items to give and their quantities in the "Objects to Give" parameter (format: ID:Quantity, ID:Quantity, ...).
+- Customize the SE sound played with the message using the "SE Name," "SE Volume," and "SE Pitch" parameters.
 
 
 ## Screenshots
