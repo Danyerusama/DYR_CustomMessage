@@ -1,8 +1,3 @@
-//=============================================================================
-// DYR_CustomMessage.js
-// Author: Danyerusama
-//=============================================================================
-
 /*:
  * @plugindesc Plugin to display custom messages when interacting with Treasure Events.
  * 
