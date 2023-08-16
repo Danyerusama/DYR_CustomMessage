@@ -65,3 +65,24 @@ Looking forward to addressing your feedback and working together to improve thes
 
 ## License
 This project is governed by the MIT License - please refer to the [LICENSE](https://github.com/Danyerusama/DYR_IdleVideoTitle/blob/94ceb843b5d2f9b5f51aa7eec3788e41f5f0cdb3/LICENSE) file for comprehensive details.
+
+## Support my Work
+
+If you've found value in the projects, plugins, or insights I offer, your support would mean the world to me. Even the smallest contribution goes a long way in enabling me to dedicate time and effort to crafting meaningful content and projects for our community. If you're interested in supporting me and becoming a part of this journey, you can do so through:
+
+
+<a href="https://www.patreon.com/Danyerusama">
+    <img src="https://i.ibb.co/hBp4C5F/My-Patreon.png" alt="My Patreon">
+</a>
+
+or
+
+
+<a href="https://paypal.me/Danyerusama?country.x=CO&locale.x=es_XC">
+    <img src="https://i.ibb.co/PFHTmSH/Paypal2.png" alt="My Paypal">
+</a>
+
+
+
+
+Thank you for considering supporting my work and being a part of this community!
