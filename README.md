@@ -64,24 +64,14 @@ Before creating a new issue, please ensure that a similar issue has not already 
 Looking forward to addressing your feedback and working together to improve these plugins!
 
 ## License
-This project is governed by the MIT License - please refer to the [LICENSE](https://github.com/Danyerusama/DYR_IdleVideoTitle/blob/94ceb843b5d2f9b5f51aa7eec3788e41f5f0cdb3/LICENSE) file for comprehensive details.
+
+All my plugins are licensed under the [MIT License](https://github.com/Danyerusama/DYR_IdleVideoTitle/blob/d218b5695bfde6b2c1581b0c00b16f73c631574c/LICENSE). Feel free to use them in both commercial and non-commercial games. If you wish to modify the code, please reach out to me at [danyerusama@gmail.com](mailto:danyerusama@gmail.com) for approval.
 
 ## Support my Work
 
 If you've found value in the projects, plugins, or insights I offer, your support would mean the world to me. Even the smallest contribution goes a long way in enabling me to dedicate time and effort to crafting meaningful content and projects for our community. If you're interested in supporting me and becoming a part of this journey, you can do so through:
 
-
-<a href="https://www.patreon.com/Danyerusama">
-    <img src="https://i.ibb.co/hBp4C5F/My-Patreon.png" alt="My Patreon">
-</a>
-
-or
-
-
-<a href="https://paypal.me/Danyerusama?country.x=CO&locale.x=es_XC">
-    <img src="https://i.ibb.co/PFHTmSH/Paypal2.png" alt="My Paypal">
-</a>
-
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Danyerusama?country.x=CO&locale.x=es_XC) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Danyerusama?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/danyerusama) 
 
 
 
